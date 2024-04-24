@@ -1,0 +1,56 @@
+    1  git config --global user.name "Mona Lisa"Аліна Сол"
+git config --global user.name
+clear
+
+clear
+[200~git config --global user.name
+$ git config --global user.name "Mona Lisa"Аліна Сол"
+    2  > git config --global user.name
+    3  > clear
+    4  >
+    5  > clear
+    6  > ^[[200~git config --global user.name
+    7  >
+    8  clear
+    9  [200~git config --global user.name clear
+   10  git config --global user.name "Alina Sol"
+   11  git config --global user.name
+   12  git config --global user.email "alina.sol1979@gmail.com"
+   13  git clone https://github.com/AlinaSol/HW_10.git 
+   14  cd GitHomeWork
+   15  ls
+   16  cd HW_10
+   17  touch text_ignore.txt
+   18  ls
+   19  git status
+   20  git status
+   21  git status
+   22  git add.
+   23  git add .
+   24  git status
+   25  git commid -m "update gitignore file"
+   26  git commit -m "update gitignore file"
+   27  touch main_test.txt
+   28  git status
+   29  git add .
+   30  git status
+   31  git commit -m "create new file"
+   32  git log
+   33  git checkout -b develop
+   34  touch develop_test.txt
+   35  git status
+   36  git add .
+   37  git commit -m "create new file in new branch"
+   38  git status
+   39  git add .
+   40  git commit -m "update file"
+   41  git checkout main
+   42  git merge develop
+   43  git log
+   44  history > command_list.csv
+   45  git history > command_list.csv
+   46  git status
+   47  git add .
+   48  git commit -m "add history"
+   49  git push
+   50  history > command_list.csv
